@@ -5,4 +5,5 @@ int main(){
     // cout ( ซี - เอ้าท์ ) = console output
                             // endl = endline = '\n'
     cout << "Love C++" << endl; 
+    cout << "Hello C++" << endl; 
 }

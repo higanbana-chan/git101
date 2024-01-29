@@ -1,3 +1,3 @@
 เพิ่มไฟล์ new-1.txt ใน git102 แล้ว push ไปที่ github
 
-จากนั้น add, commit และ push
+จากนั้น ทดลองแก้ไขข้อความในบรรทัดนี้ ใน branch main
